@@ -333,16 +333,16 @@ Useful columns: activity date time, activity, actor UPN, resource name.
 
 ## 13. Build order
 
-- [ ] Entra app registration + permission + admin consent
-- [ ] ServiceNow OAuth entity, with `.default` scope attached to the profile
-- [ ] REST message and GET method
-- [ ] Custom table and fields (**clear the Name field before typing**)
-- [ ] Run the [smoke test](#6-smoke-test)
-- [ ] Run the [import script](#7-import-script) in Scripts - Background
-- [ ] Verify rows appear in the table
-- [ ] Create the [scheduled job](#8-scheduled-job)
-- [ ] Build the [report and freshness indicator](#9-report)
-- [ ] File the [production hardening](#10-production-hardening) items as follow-up tickets
+- Entra app registration + permission + admin consent
+- ServiceNow OAuth entity, with `.default` scope attached to the profile
+- REST message and GET method
+- Custom table and fields (**clear the Name field before typing**)
+- Run the [smoke test](#6-smoke-test)
+- Run the [import script](#7-import-script) in Scripts - Background
+- Verify rows appear in the table
+- Create the [scheduled job](#8-scheduled-job)
+- Build the [report and freshness indicator](#9-report)
+- File the [production hardening](#10-production-hardening) items as follow-up tickets
 
 *[UPN]: User Principal Name
 *[PII]: Personally Identifiable Information
