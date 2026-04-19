@@ -1,0 +1,100 @@
+
+/* 
+ * Single line (1 item per row) cards. 
+ * Use this wrapper class to display a vertical list of items.
+ */
+.cards-single > ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.cards-single > ul > li {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  padding: 0.75em 1em;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+  margin: 0 0 0.6em 0 !important;
+}
+
+.cards-single > ul > li:last-child {
+  margin-bottom: 0 !important;
+}
+
+.cards-single img {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  display: block;
+  margin: 0 auto;
+}
+
+.cards-single a {
+  text-decoration: none;
+}
+
+.cards-single a:hover {
+  text-decoration: underline;
+}
+
+.cards-single .sub {
+  margin-left: 0.5em;
+  font-size: 0.85em;
+  color: var(--md-default-fg-color--light);
+}
+
+.cards-single .sub a {
+  color: var(--md-default-fg-color--light);
+}
+
+/* 
+ * Three items per row cards. 
+ * Use this wrapper class for a 3-column grid layout.
+ */
+.md-typeset .cards-three > ul {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+  list-style: none;
+  align-items: stretch;
+}
+
+.md-typeset .cards-three > ul > li {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1em;
+  padding: 0.75em 1em;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+  margin: 0 !important;
+}
+
+.md-typeset .cards-three > ul > li p {
+  margin: 0 !important;
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.cards-three > ul > li:last-child {
+  margin-bottom: 0 !important;
+}
+
+.cards-three img {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  display: block;
+}
+
+.cards-three a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.cards-three a:hover {
+  text-decoration: underline;
+}
