@@ -1,10 +1,6 @@
----
-icon: lucide/rocket
----
+# Home
 
-# Jordans Knowledge Base
-
-## Admin Portals
+### Portals
 
 <div class="cards-single" markdown>
 
@@ -23,12 +19,14 @@ icon: lucide/rocket
 
 </div>
 
-## Admin Tools
+### Tools
 
 <div class="cards-three" markdown>
 
 - <a href="https://developer.microsoft.com/en-us/graph/graph-explorer" target="_blank"><img src="assets/logos/Microsoft.svg"/></a><a href="https://developer.microsoft.com/en-us/graph/graph-explorer" target="_blank">Graph Explorer</a>
-- <a href="https://developer.microsoft.com/en-us/graph/graph-explorer" target="_blank"><img src="assets/logos/Microsoft.svg"/></a><a href="https://developer.microsoft.com/en-us/graph/graph-explorer" target="_blank">Graph Explorer</a>
-- <a href="https://developer.microsoft.com/en-us/graph/graph-explorer" target="_blank"><img src="assets/logos/Microsoft.svg"/></a><a href="https://developer.microsoft.com/en-us/graph/graph-explorer" target="_blank">Graph Explorer</a>
+
+- <a href="https://qr.jordanflynn.ie" target="_blank"><img src="assets/logos/qr.png"/></a><a href="https://qr.jordanflynn.ie" target="_blank">QR Code Generator</a>
+
+- <a href="https://resize.jordanflynn.ie" target="_blank"><img src="assets/logos/resize.png"/></a><a href="https://resize.jordanflynn.ie" target="_blank">Image Resizer</a>
 
 </div>
