@@ -4,6 +4,9 @@ site_name = "Jordans KB"
 site_description = "My shared knowledge."
 site_author = "Jordan"
 site_url = "kb.jordanflynn.com"
+repo_url = "https://github.com/JordanIRL/Zensical"
+repo_name = "JordanIRL/Zensical"
+edit_uri = "edit/main/docs/"
 copyright = """&copy; Jordan Flynn"""
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
