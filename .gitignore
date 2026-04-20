@@ -1,0 +1,15 @@
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
+
+# Zensical build output — rebuilt by Cloudflare Workers Builds on push
+site/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
