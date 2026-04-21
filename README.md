@@ -2,7 +2,7 @@
 
 A personal knowledge base.
 
-Live site: [kb.jordanflynn.com](https://kb.jordanflynn.com)
+Live site: [kb.jordanflynn.com](https://kb.jordanflynn.ie)
 
 ## Local development
 
