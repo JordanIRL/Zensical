@@ -1213,6 +1213,7 @@ sequenceDiagram
 Entra ID supports a spectrum of authentication methods ranging from passwords to phishing-resistant credentials. This mindmap shows the hierarchy of options.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Authentication
   Methods))
@@ -1256,6 +1257,7 @@ mindmap
 Shows the main components, decisions, and operational flow for multi-factor authentication methods in Microsoft 365 identity and access work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((MFA Methods))
     Push Notifications

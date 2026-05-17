@@ -465,6 +465,7 @@ flowchart TB
 Shows the main components, decisions, and operational flow for configuration profile types in Microsoft 365 endpoint management work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Config Profiles))
     Windows
@@ -858,6 +859,7 @@ flowchart TB
 Shows the main components, decisions, and operational flow for endpoint security policies in Microsoft 365 endpoint management work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Endpoint Security))
     Disk Encryption

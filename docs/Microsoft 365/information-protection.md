@@ -55,6 +55,7 @@ flowchart TB
 Shows the main components, decisions, and operational flow for audit log search capabilities in Microsoft 365 information protection work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Audit Logs))
     User Activities
@@ -663,6 +664,7 @@ flowchart TB
 Shows the main components, decisions, and operational flow for microsoft purview compliance portal in Microsoft 365 information protection work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Purview Portal))
     Data Classification
@@ -932,6 +934,7 @@ flowchart TB
 Microsoft 365 DLP doesn't rely on a single detection method. It uses a tiered approach based on the type of data you need to protect. This diagram maps the hierarchy of detection capabilities.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Sensitive Data<br/>Detection))
     Built-in SITs

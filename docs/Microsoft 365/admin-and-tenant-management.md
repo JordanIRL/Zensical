@@ -97,6 +97,7 @@ flowchart TB
 Shows the main components, decisions, and operational flow for admin center navigation map in Microsoft 365 admin and tenant management work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Microsoft 365 Admin))
     Dashboard
@@ -888,6 +889,7 @@ flowchart TB
 Shows the main components, decisions, and operational flow for powershell administration in Microsoft 365 admin and tenant management work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((PowerShell Admin))
     Connection Modules

@@ -279,6 +279,7 @@ flowchart TB
 Shows the main components, decisions, and operational flow for exchange admin center navigation in Microsoft 365 exchange online work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Exchange Admin))
     Recipients
@@ -519,6 +520,7 @@ flowchart LR
 Shows the main components, decisions, and operational flow for exchange online protection settings in Microsoft 365 exchange online work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((EOP Settings))
     Connection Filter

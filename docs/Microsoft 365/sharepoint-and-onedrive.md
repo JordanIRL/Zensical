@@ -37,6 +37,7 @@ SharePoint and OneDrive diagrams for Microsoft 365 admins. This file contains 25
 Shows the main components, decisions, and operational flow for document library features in Microsoft 365 sharepoint and onedrive work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Doc Library))
     Versioning
@@ -158,6 +159,7 @@ flowchart TD
 Shows the main components, decisions, and operational flow for information architecture planning in Microsoft 365 sharepoint and onedrive work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Information Architecture))
     Content Types
@@ -498,6 +500,7 @@ flowchart TB
 Shows the main components, decisions, and operational flow for sharepoint admin center navigation in Microsoft 365 sharepoint and onedrive work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((SharePoint Admin))
     Sites

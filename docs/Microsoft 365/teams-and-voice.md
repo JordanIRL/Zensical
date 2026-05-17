@@ -230,6 +230,7 @@ flowchart TB
 Shows the main components, decisions, and operational flow for teams admin center structure in Microsoft 365 teams and voice work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Teams Admin))
     Users
@@ -622,6 +623,7 @@ flowchart TB
 Shows the main components, decisions, and operational flow for teams compliance features in Microsoft 365 teams and voice work.
 
 ```mermaid
+%%{init: {"layout": "tidy-tree"}}%%
 mindmap
   root((Teams Compliance))
     Communication Compliance
